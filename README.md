@@ -1,4 +1,4 @@
-# Student_Result_Ananlysis 
+# Student_Result_Ananlysis 🏫
 # Overview
 * Student Result Analysis project is a real-time student performance analysis dashboard developed using actual academic data from Maharani Saibai School.
 * It provides an interactive and visual overview of student results, enabling educators to monitor performance at the school, class, and subject levels.
@@ -25,4 +25,6 @@
 * Real-time drill-downs enable quick identification of strengths and improvement areas.
 
 # Technical Aspects
-The Employee Attrition Dashboard is developed using Power BI. 
+* Data Collection: Raw result data collected and organized using Excel.
+* Data Cleaning & Preprocessing: Performed using Python in Jupyter Notebook (handled missing values, formatting, and structured the dataset).
+* Dashboard Development: Designed and built in Power BI Desktop
